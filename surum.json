@@ -1,9 +1,19 @@
 {
-  "surum": "0.0.9.1",
+  "surum": "1.0",
   "kanal": "BETA",
   "indirme": "https://github.com/Methamafoz/A-CUBE-GUNCELLEME/releases/latest",
   "notlar": {
-    "tr": "",
-    "en": ""
+    "tr": "Eş öğretmen, 12 dil, kılavuz, aday programlar, oturum kaydı ve 40+ düzeltme. Ayrıntı: Yardım ▸ Program Güncel mi?",
+    "en": "Co-teaching, 12 languages, the manual, candidate schedules, session saving and 40+ fixes. Details: Help ▸ Is the program up to date?",
+    "de": "Doppelbesetzung, 12 Sprachen, Handbuch, Kandidatenpläne, Sitzungsspeicherung und über 40 Korrekturen. Details: Hilfe ▸ Ist das Programm aktuell?",
+    "el": "Συνδιδασκαλία, 12 γλώσσες, εγχειρίδιο, υποψήφια προγράμματα, αποθήκευση συνεδρίας και 40+ διορθώσεις. Λεπτομέρειες: Βοήθεια ▸ Είναι ενημερωμένο το πρόγραμμα;",
+    "es": "Codocencia, 12 idiomas, manual, horarios candidatos, guardado de sesión y más de 40 correcciones. Detalles: Ayuda ▸ ¿El programa está actualizado?",
+    "fr": "Co-enseignement, 12 langues, manuel, emplois du temps candidats, sauvegarde de session et plus de 40 corrections. Détails : Aide ▸ Le programme est-il à jour ?",
+    "it": "Compresenza, 12 lingue, manuale, orari candidati, salvataggio della sessione e oltre 40 correzioni. Dettagli: Aiuto ▸ Il programma è aggiornato?",
+    "nl": "Co-teaching, 12 talen, handleiding, kandidaatroosters, sessie opslaan en meer dan 40 correcties. Details: Help ▸ Is het programma up-to-date?",
+    "pl": "Współnauczanie, 12 języków, podręcznik, plany kandydujące, zapis sesji i ponad 40 poprawek. Szczegóły: Pomoc ▸ Czy program jest aktualny?",
+    "pt": "Codocência, 12 idiomas, manual, horários candidatos, gravação de sessão e mais de 40 correções. Detalhes: Ajuda ▸ O programa está atualizado?",
+    "ru": "Совместное преподавание, 12 языков, руководство, расписания-кандидаты, сохранение сеанса и более 40 исправлений. Подробности: Справка ▸ Программа обновлена?",
+    "vi": "Đồng giảng dạy, 12 ngôn ngữ, cẩm nang, chương trình dự tuyển, lưu phiên làm việc và hơn 40 sửa lỗi. Chi tiết: Trợ giúp ▸ Chương trình đã cập nhật chưa?"
   }
 }
