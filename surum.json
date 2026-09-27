@@ -1,19 +1,19 @@
 {
-  "surum": "1.0",
+  "surum": "1.1",
   "kanal": "BETA",
   "indirme": "https://github.com/Methamafoz/A-CUBE-GUNCELLEME/releases/latest",
   "notlar": {
-    "tr": "Eş öğretmen, 12 dil, kılavuz, aday programlar, oturum kaydı ve 40+ düzeltme. Ayrıntı: Yardım ▸ Program Güncel mi?",
-    "en": "Co-teaching, 12 languages, the manual, candidate schedules, session saving and 40+ fixes. Details: Help ▸ Is the program up to date?",
-    "de": "Doppelbesetzung, 12 Sprachen, Handbuch, Kandidatenpläne, Sitzungsspeicherung und über 40 Korrekturen. Details: Hilfe ▸ Ist das Programm aktuell?",
-    "el": "Συνδιδασκαλία, 12 γλώσσες, εγχειρίδιο, υποψήφια προγράμματα, αποθήκευση συνεδρίας και 40+ διορθώσεις. Λεπτομέρειες: Βοήθεια ▸ Είναι ενημερωμένο το πρόγραμμα;",
-    "es": "Codocencia, 12 idiomas, manual, horarios candidatos, guardado de sesión y más de 40 correcciones. Detalles: Ayuda ▸ ¿El programa está actualizado?",
-    "fr": "Co-enseignement, 12 langues, manuel, emplois du temps candidats, sauvegarde de session et plus de 40 corrections. Détails : Aide ▸ Le programme est-il à jour ?",
-    "it": "Compresenza, 12 lingue, manuale, orari candidati, salvataggio della sessione e oltre 40 correzioni. Dettagli: Aiuto ▸ Il programma è aggiornato?",
-    "nl": "Co-teaching, 12 talen, handleiding, kandidaatroosters, sessie opslaan en meer dan 40 correcties. Details: Help ▸ Is het programma up-to-date?",
-    "pl": "Współnauczanie, 12 języków, podręcznik, plany kandydujące, zapis sesji i ponad 40 poprawek. Szczegóły: Pomoc ▸ Czy program jest aktualny?",
-    "pt": "Codocência, 12 idiomas, manual, horários candidatos, gravação de sessão e mais de 40 correções. Detalhes: Ajuda ▸ O programa está atualizado?",
-    "ru": "Совместное преподавание, 12 языков, руководство, расписания-кандидаты, сохранение сеанса и более 40 исправлений. Подробности: Справка ▸ Программа обновлена?",
-    "vi": "Đồng giảng dạy, 12 ngôn ngữ, cẩm nang, chương trình dự tuyển, lưu phiên làm việc và hơn 40 sửa lỗi. Chi tiết: Trợ giúp ▸ Chương trình đã cập nhật chưa?"
+    "tr": "Yeni Üret sayfası, gün çözümü ve gün çifti, öğretmen başına pencere, günlere yayma ve yeni görünüm. Ayrıntı: Yardım ▸ Program Güncel mi?",
+    "en": "New Generate page, day solve and day pair, windows per teacher, spreading over days and a new look. Details: Help ▸ Is the program up to date?",
+    "de": "Neue Seite „Erstellen“, Tageslösung und Tagespaar, Freistunden pro Lehrkraft, Verteilung auf Tage und ein neues Aussehen. Details: Hilfe ▸ Ist das Programm aktuell?",
+    "el": "Νέα σελίδα Δημιουργίας, επίλυση ημέρας και ζεύγος ημερών, κενά ανά καθηγητή, κατανομή σε ημέρες και νέα εμφάνιση. Λεπτομέρειες: Βοήθεια ▸ Είναι ενημερωμένο το πρόγραμμα;",
+    "es": "Nueva página Generar, solución por día y par de días, huecos por profesor, reparto en días y un aspecto nuevo. Detalles: Ayuda ▸ ¿El programa está actualizado?",
+    "fr": "Nouvelle page Générer, résolution par jour et paire de jours, trous par enseignant, répartition sur les jours et nouvel aspect. Détails : Aide ▸ Le programme est-il à jour ?",
+    "it": "Nuova pagina Genera, soluzione per giorno e coppia di giorni, buchi per docente, distribuzione sui giorni e nuovo aspetto. Dettagli: Aiuto ▸ Il programma è aggiornato?",
+    "nl": "Nieuwe pagina Maken, dagoplossing en dagpaar, tussenuren per docent, spreiding over dagen en een nieuw uiterlijk. Details: Help ▸ Is het programma up-to-date?",
+    "pl": "Nowa strona Generuj, rozwiązanie dnia i para dni, okienka na nauczyciela, rozkład na dni i nowy wygląd. Szczegóły: Pomoc ▸ Czy program jest aktualny?",
+    "pt": "Nova página Gerar, solução por dia e par de dias, janelas por professor, distribuição pelos dias e um novo aspeto. Detalhes: Ajuda ▸ O programa está atualizado?",
+    "ru": "Новая страница «Создать», решение дня и пара дней, окна на учителя, распределение по дням и новый вид. Подробности: Справка ▸ Программа обновлена?",
+    "vi": "Trang Tạo mới, giải theo ngày và cặp ngày, tiết trống theo giáo viên, trải ra các ngày và giao diện mới. Chi tiết: Trợ giúp ▸ Chương trình đã cập nhật chưa?"
   }
 }
