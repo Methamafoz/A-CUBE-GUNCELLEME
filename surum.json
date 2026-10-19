@@ -1,19 +1,19 @@
 {
-  "surum": "1.1",
+  "surum": "1.2",
   "kanal": "BETA",
   "indirme": "https://github.com/Methamafoz/A-CUBE-GUNCELLEME/releases/latest",
   "notlar": {
-    "tr": "Yeni Üret sayfası, gün çözümü ve gün çifti, öğretmen başına pencere, günlere yayma ve yeni görünüm. Ayrıntı: Yardım ▸ Program Güncel mi?",
-    "en": "New Generate page, day solve and day pair, windows per teacher, spreading over days and a new look. Details: Help ▸ Is the program up to date?",
-    "de": "Neue Seite „Erstellen“, Tageslösung und Tagespaar, Freistunden pro Lehrkraft, Verteilung auf Tage und ein neues Aussehen. Details: Hilfe ▸ Ist das Programm aktuell?",
-    "el": "Νέα σελίδα Δημιουργίας, επίλυση ημέρας και ζεύγος ημερών, κενά ανά καθηγητή, κατανομή σε ημέρες και νέα εμφάνιση. Λεπτομέρειες: Βοήθεια ▸ Είναι ενημερωμένο το πρόγραμμα;",
-    "es": "Nueva página Generar, solución por día y par de días, huecos por profesor, reparto en días y un aspecto nuevo. Detalles: Ayuda ▸ ¿El programa está actualizado?",
-    "fr": "Nouvelle page Générer, résolution par jour et paire de jours, trous par enseignant, répartition sur les jours et nouvel aspect. Détails : Aide ▸ Le programme est-il à jour ?",
-    "it": "Nuova pagina Genera, soluzione per giorno e coppia di giorni, buchi per docente, distribuzione sui giorni e nuovo aspetto. Dettagli: Aiuto ▸ Il programma è aggiornato?",
-    "nl": "Nieuwe pagina Maken, dagoplossing en dagpaar, tussenuren per docent, spreiding over dagen en een nieuw uiterlijk. Details: Help ▸ Is het programma up-to-date?",
-    "pl": "Nowa strona Generuj, rozwiązanie dnia i para dni, okienka na nauczyciela, rozkład na dni i nowy wygląd. Szczegóły: Pomoc ▸ Czy program jest aktualny?",
-    "pt": "Nova página Gerar, solução por dia e par de dias, janelas por professor, distribuição pelos dias e um novo aspeto. Detalhes: Ajuda ▸ O programa está atualizado?",
-    "ru": "Новая страница «Создать», решение дня и пара дней, окна на учителя, распределение по дням и новый вид. Подробности: Справка ▸ Программа обновлена?",
-    "vi": "Trang Tạo mới, giải theo ngày và cặp ngày, tiết trống theo giáo viên, trải ra các ngày và giao diện mới. Chi tiết: Trợ giúp ▸ Chương trình đã cập nhật chưa?"
+    "tr": "Salonlu dersler ve pencere istekleriyle daha iyi programlar, tek adımlı İyileştir, vekil öğretmen, puantaj ve esnek tercih. Ayrıntı: Yardım ▸ Program Güncel mi?",
+    "en": "Better timetables with rooms and gap requests, one-step Improve, substitute teachers, timesheet and soft preferences. Details: Help ▸ Is the program up to date?",
+    "de": "Bessere Pläne bei Räumen und Freistunden-Wünschen, Verbessern in einem Schritt, Vertretungen, Stundennachweis und weiche Wünsche. Details: Hilfe ▸ Ist das Programm aktuell?",
+    "el": "Καλύτερα προγράμματα με αίθουσες και αιτήματα για κενά, Βελτίωση σε ένα βήμα, αναπληρώσεις, παρουσιολόγιο και ευέλικτες προτιμήσεις. Λεπτομέρειες: Βοήθεια ▸ Είναι ενημερωμένο το πρόγραμμα;",
+    "es": "Mejores horarios con aulas y peticiones de horas libres, Mejorar en un solo paso, sustituciones, parte de asistencia y preferencias flexibles. Detalles: Ayuda ▸ ¿El programa está actualizado?",
+    "fr": "De meilleurs emplois du temps avec les salles et les souhaits d'heures creuses, Améliorer en une étape, remplacements, feuille de présence et préférences souples. Détails : Aide ▸ Le programme est-il à jour ?",
+    "it": "Orari migliori con aule e richieste di ore buca, Migliora in un solo passaggio, supplenze, foglio presenze e preferenze flessibili. Dettagli: Aiuto ▸ Il programma è aggiornato?",
+    "nl": "Betere roosters met lokalen en tussenuurwensen, Verbeteren in één stap, invallers, urenstaat en zachte voorkeuren. Details: Help ▸ Is het programma up-to-date?",
+    "pl": "Lepsze plany z salami i życzeniami co do okienek, Ulepsz w jednym kroku, zastępstwa, ewidencja godzin i miękkie preferencje. Szczegóły: Pomoc ▸ Czy program jest aktualny?",
+    "pt": "Melhores horários com salas e pedidos de furos, Melhorar num só passo, substituições, folha de presenças e preferências flexíveis. Detalhes: Ajuda ▸ O programa está atualizado?",
+    "ru": "Лучшие расписания с кабинетами и пожеланиями по окнам, «Улучшить» в один шаг, замены, табель и мягкие пожелания. Подробности: Справка ▸ Программа обновлена?",
+    "vi": "Thời khóa biểu tốt hơn với phòng học và yêu cầu về tiết trống, Cải thiện một bước, dạy thay, bảng chấm công và ưu tiên mềm. Chi tiết: Trợ giúp ▸ Chương trình đã cập nhật chưa?"
   }
 }
