@@ -1,19 +1,19 @@
 {
-  "surum": "1.2.1",
+  "surum": "1.3",
   "kanal": "BETA",
   "indirme": "https://github.com/Methamafoz/A-CUBE-GUNCELLEME/releases/latest",
   "notlar": {
-    "tr": "1.2.1: salon bilgisi artık yalnız ilk programda değil, bütün programlarda görünür (düzeltme). 1.2: Salonlu dersler ve pencere istekleriyle daha iyi programlar, tek adımlı İyileştir, vekil öğretmen, puantaj ve esnek tercih. Ayrıntı: Yardım ▸ Program Güncel mi?",
-    "en": "1.2.1: room information now shows in every timetable, not only the first (fix). 1.2: Better timetables with rooms and gap requests, one-step Improve, substitute teachers, timesheet and soft preferences. Details: Help ▸ Is the program up to date?",
-    "de": "1.2.1: Rauminformationen erscheinen jetzt in jedem Plan, nicht nur im ersten (Korrektur). 1.2: Bessere Pläne bei Räumen und Freistunden-Wünschen, Verbessern in einem Schritt, Vertretungen, Stundennachweis und weiche Wünsche. Details: Hilfe ▸ Ist das Programm aktuell?",
-    "el": "1.2.1: οι πληροφορίες αιθουσών εμφανίζονται πλέον σε κάθε πρόγραμμα, όχι μόνο στο πρώτο (διόρθωση). 1.2: Καλύτερα προγράμματα με αίθουσες και αιτήματα για κενά, Βελτίωση σε ένα βήμα, αναπληρώσεις, παρουσιολόγιο και ευέλικτες προτιμήσεις. Λεπτομέρειες: Βοήθεια ▸ Είναι ενημερωμένο το πρόγραμμα;",
-    "es": "1.2.1: la información de aulas aparece ahora en todos los horarios, no solo en el primero (corrección). 1.2: Mejores horarios con aulas y peticiones de horas libres, Mejorar en un solo paso, sustituciones, parte de asistencia y preferencias flexibles. Detalles: Ayuda ▸ ¿El programa está actualizado?",
-    "fr": "1.2.1 : les informations de salle s'affichent désormais dans tous les emplois du temps, pas seulement le premier (correctif). 1.2 : De meilleurs emplois du temps avec les salles et les souhaits d'heures creuses, Améliorer en une étape, remplacements, feuille de présence et préférences souples. Détails : Aide ▸ Le programme est-il à jour ?",
-    "it": "1.2.1: le informazioni sulle aule ora compaiono in ogni orario, non solo nel primo (correzione). 1.2: Orari migliori con aule e richieste di ore buca, Migliora in un solo passaggio, supplenze, foglio presenze e preferenze flessibili. Dettagli: Aiuto ▸ Il programma è aggiornato?",
-    "nl": "1.2.1: lokaalinformatie verschijnt nu in elk rooster, niet alleen in het eerste (correctie). 1.2: Betere roosters met lokalen en tussenuurwensen, Verbeteren in één stap, invallers, urenstaat en zachte voorkeuren. Details: Help ▸ Is het programma up-to-date?",
-    "pl": "1.2.1: informacje o salach są teraz widoczne w każdym planie, nie tylko w pierwszym (poprawka). 1.2: Lepsze plany z salami i życzeniami co do okienek, Ulepsz w jednym kroku, zastępstwa, ewidencja godzin i miękkie preferencje. Szczegóły: Pomoc ▸ Czy program jest aktualny?",
-    "pt": "1.2.1: a informação das salas aparece agora em todos os horários, não só no primeiro (correção). 1.2: Melhores horários com salas e pedidos de furos, Melhorar num só passo, substituições, folha de presenças e preferências flexíveis. Detalhes: Ajuda ▸ O programa está atualizado?",
-    "ru": "1.2.1: сведения о кабинетах теперь видны в каждом расписании, а не только в первом (исправление). 1.2: Лучшие расписания с кабинетами и пожеланиями по окнам, «Улучшить» в один шаг, замены, табель и мягкие пожелания. Подробности: Справка ▸ Программа обновлена?",
-    "vi": "1.2.1: thông tin phòng học nay hiển thị ở mọi thời khóa biểu, không chỉ thời khóa biểu đầu tiên (sửa lỗi). 1.2: Thời khóa biểu tốt hơn với phòng học và yêu cầu về tiết trống, Cải thiện một bước, dạy thay, bảng chấm công và ưu tiên mềm. Chi tiết: Trợ giúp ▸ Chương trình đã cập nhật chưa?"
+    "tr": "1.3: Üniversite kipi — salonu program seçer, öğrencinin günü toplu, binalar krokide. Şube adı değişince atamalar korunur (düzeltme). Ayrıntı: Yardım ▸ Program Güncel mi?",
+    "en": "1.3: University mode — the program picks the rooms, compact student days, buildings on a campus sketch. Renaming a class keeps its assignments (fix). Details: Help ▸ Is the program up to date?",
+    "de": "1.3: Universitätsmodus — das Programm wählt die Räume, kompakte Tage für Studierende, Gebäude auf einer Campus-Skizze. Umbenannte Klassen behalten ihre Zuordnungen (Korrektur). Details: Hilfe ▸ Ist das Programm aktuell?",
+    "el": "1.3: Λειτουργία πανεπιστημίου — το πρόγραμμα επιλέγει τις αίθουσες, συμπαγής ημέρα φοιτητών, κτίρια σε σκαρίφημα. Η μετονομασία τμήματος κρατά τις αναθέσεις (διόρθωση). Λεπτομέρειες: Βοήθεια ▸ Είναι ενημερωμένο το πρόγραμμα;",
+    "es": "1.3: Modo universidad — el programa elige las aulas, jornadas compactas para el estudiante, edificios en un croquis del campus. Cambiar el nombre de una clase conserva sus asignaciones (corrección). Detalles: Ayuda ▸ ¿El programa está actualizado?",
+    "fr": "1.3 : Mode université — le programme choisit les salles, des journées étudiantes compactes, les bâtiments sur un croquis du campus. Renommer une classe conserve ses affectations (correctif). Détails : Aide ▸ Le programme est-il à jour ?",
+    "it": "1.3: Modalità università — il programma sceglie le aule, giornate compatte per gli studenti, edifici su uno schizzo del campus. Rinominare una classe conserva le assegnazioni (correzione). Dettagli: Aiuto ▸ Il programma è aggiornato?",
+    "nl": "1.3: Modus hoger onderwijs — het programma kiest de lokalen, compacte studentendagen, gebouwen op een campusschets. Een klas hernoemen behoudt de toewijzingen (correctie). Details: Help ▸ Is het programma up-to-date?",
+    "pl": "1.3: Tryb uczelni — program sam wybiera sale, zwarte dni studentów, budynki na szkicu kampusu. Zmiana nazwy klasy zachowuje przydziały (poprawka). Szczegóły: Pomoc ▸ Czy program jest aktualny?",
+    "pt": "1.3: Modo ensino superior — o programa escolhe as salas, dias compactos para os estudantes, edifícios num esboço do campus. Mudar o nome de uma turma mantém as atribuições (correção). Detalhes: Ajuda ▸ O programa está atualizado?",
+    "ru": "1.3: Режим вуза — программа сама выбирает кабинеты, компактный день студентов, корпуса на схеме кампуса. Переименование класса сохраняет назначения (исправление). Подробности: Справка ▸ Программа обновлена?",
+    "vi": "1.3: Chế độ đại học — chương trình tự chọn phòng, ngày học của sinh viên gọn hơn, tòa nhà trên sơ đồ khuôn viên. Đổi tên lớp vẫn giữ phân công (sửa lỗi). Chi tiết: Trợ giúp ▸ Chương trình đã cập nhật chưa?"
   }
 }
